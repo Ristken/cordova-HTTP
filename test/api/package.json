@@ -1,0 +1,16 @@
+{
+  "name": "cordova-http-test-harness",
+  "version": "1.0.0",
+  "description": "A test harness for cordova-HTTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Zeigler <ryan.zeigler@taillight.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "fast-json-patch": "^1.1.1"
+  }
+}
